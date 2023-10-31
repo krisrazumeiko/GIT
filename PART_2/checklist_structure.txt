@@ -1,0 +1,3 @@
+Checklist structure:
+# Title	Steps Inputs Expected_result Actual_result Status Bug_link
+

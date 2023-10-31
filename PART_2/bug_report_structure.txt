@@ -1,0 +1,16 @@
+bug_report_structure:
+		Id:
+		Title:
+		Severity:
+		Priority:
+		Environment:
+		Precondition:
+		Steps_to_reproduce:
+		  1.
+		  2.
+		  3.
+		  4.
+		  5.
+
+		Expected_result:
+		Actual_result:
