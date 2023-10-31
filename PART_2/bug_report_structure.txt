@@ -11,6 +11,7 @@ bug_report_structure:
 		  3.
 		  4.
 		  5.
+		  6.
 
 		Expected_result:
 		Actual_result:
